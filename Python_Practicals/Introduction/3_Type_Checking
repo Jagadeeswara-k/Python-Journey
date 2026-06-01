@@ -1,0 +1,15 @@
+# Type Checking
+
+x = 5               # Integer
+y = "jagadeesh"     # String
+a = 5.234           # Float
+b = True            # Boolean
+c = None
+
+
+# Printing the variables
+print(type(x))
+print(type(y))
+print(type(a))
+print(type(b))
+print(type(c))
